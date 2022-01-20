@@ -10,11 +10,7 @@ pip install tensorflow==2.4
 
 
 
-cd tf
-cd scripts
-activate
-cd..
-cd..
+
 
 jupyter notebook
 
